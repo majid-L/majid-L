@@ -1,6 +1,7 @@
 I'm a software engineer and web developer with a wealth of practical experience in a **diverse tech stack**, covering many areas within full stack web development.
 
-### Languages
+### ${\color{#EC3FEE}Languages}$
+<br>
 <div>
   <img src="assets/js2.svg" height=35>
   &nbsp;
@@ -22,7 +23,8 @@ I'm a software engineer and web developer with a wealth of practical experience 
 
 <br>
 
-### Application frameworks
+### ${\color{#EC3FEE}Application \space frameworks}$
+<br>
 <div>
   <img src="assets/react.svg" height=35 align=center>
   &nbsp;
@@ -43,7 +45,8 @@ I'm a software engineer and web developer with a wealth of practical experience 
 
 <br>
 
-### Technologies and libraries
+### ${\color{#EC3FEE}Technologies \space and \space libraries}$
+<br>
 <div>
   <img src="assets/git.svg" height=23 align=center>
   &nbsp;
@@ -74,7 +77,8 @@ I'm a software engineer and web developer with a wealth of practical experience 
 
 <br>
 
-### Data modelling & SQL
+### ${\color{#EC3FEE}Data \space modelling \space and \space SQL}$
+<br>
 <div>
   <img src="assets/psql.svg" height=35 align=center>
   &nbsp;
@@ -91,7 +95,8 @@ I'm a software engineer and web developer with a wealth of practical experience 
 
 <br>
 
-### Testing frameworks
+### ${\color{#EC3FEE}Testing \space and \space frameworks}$
+<br>
 <div>
   <img src="assets/jest.svg" height=35 align=center>
   &nbsp;&nbsp;
