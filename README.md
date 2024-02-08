@@ -36,7 +36,7 @@ I'm a software engineer and web developer with a wealth of practical experience 
   &nbsp;&nbsp;
   <img src="assets/laravel.svg" height=30 align=center>
   &nbsp;
-  <img src="assets/drf.svg" height=45 align=center>
+  <img src="assets/drf.svg" height=55 align=center>
   &nbsp;
   <img src="assets/dotnet.svg" height=35 align=center>
 </div>
