@@ -53,6 +53,8 @@ I'm a software engineer with a broad tech stack that covers many areas within fu
   &nbsp;
   <img src="assets/bootstrap.svg" height=35>
   &nbsp;
+  <img src="assets/tailwind.svg" height=35>
+  &nbsp;
   <img src="assets/redux.svg" height=25>
   &nbsp;
   <img src="assets/ngrx.svg" height=25>
