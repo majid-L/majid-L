@@ -2,81 +2,75 @@ I'm a software engineer and web developer with a wealth of practical experience 
 
 
 > $\color{#1DF0FA}\large{\textsf{Languages}}$
-<div>
-  <img src="assets/js2.svg" height=35>
-  &nbsp;
-  <img src="assets/ts.svg" height=35>
-  &nbsp;
-  <img src="assets/php.svg" height=35>
-  &nbsp;
-  <img src="assets/py.svg" height=35>
-  &nbsp;
-  <img src="assets/c--4.svg" height=35>
-  &nbsp;
-  <img src="assets/html.svg" height=35>
-  &nbsp;
-  <img src="assets/css.svg" height=35>
-  &nbsp;
-  <img src="assets/sass.svg" height=35>
-  <img src="assets/yaml.svg" height=35>
-</div>
-<hr>
-<br>
+><div>
+>  <img src="assets/js2.svg" height=35>
+>  &nbsp;
+>  <img src="assets/ts.svg" height=35>
+>  &nbsp;
+>  <img src="assets/php.svg" height=35>
+>  &nbsp;
+>  <img src="assets/py.svg" height=35>
+>  &nbsp;
+>  <img src="assets/c--4.svg" height=35>
+>  &nbsp;
+>  <img src="assets/html.svg" height=35>
+>  &nbsp;
+>  <img src="assets/css.svg" height=35>
+>  &nbsp;
+>  <img src="assets/sass.svg" height=35>
+>  <img src="assets/yaml.svg" height=35>
+> </div>
 
+<br>
 
 > $\color{#1DF0FA}\large{\textsf{Application frameworks}}$
-<br>
-<div>
-  <img src="assets/react.svg" height=35 align=center>
-  &nbsp;
-  <img src="assets/angular-icon.svg" height=35 align=center>
-  &nbsp;
-  <img src="assets/vue.svg" height=32 align=center>
-  &nbsp;&nbsp;
-  <img src="assets/next.svg" height=15 align=center>
-  &nbsp;&nbsp;
-  <img src="assets/express.svg" height=20 align=center>
-  &nbsp;&nbsp;
-  <img src="assets/laravel.svg" height=30 align=center>
-  &nbsp;
-  <img src="assets/drf.svg" height=55 align=center>
-  &nbsp;
-  <img src="assets/dotnet.svg" height=35 align=center>
-</div>
-<hr>
+><div>
+>  <img src="assets/react.svg" height=35 align=center>
+>  &nbsp;
+>  <img src="assets/angular-icon.svg" height=35 align=center>
+>  &nbsp;
+>  <img src="assets/vue.svg" height=32 align=center>
+>  &nbsp;&nbsp;
+>  <img src="assets/next.svg" height=15 align=center>
+>  &nbsp;&nbsp;
+>  <img src="assets/express.svg" height=20 align=center>
+>  &nbsp;&nbsp;
+>  <img src="assets/laravel.svg" height=30 align=center>
+>  &nbsp;
+>  <img src="assets/drf.svg" height=55 align=center>
+>  &nbsp;
+>  <img src="assets/dotnet.svg" height=35 align=center>
+></div>
 <br>
 
 > $\color{#1DF0FA}\large{\textsf{Technologies and libraries}}$
-<br>
-<div>
-  <img src="assets/git.svg" height=23 align=center>
-  &nbsp;
-  <img src="assets/Linux.svg" height=30 align=center>
-  &nbsp;
-  <img src="assets/xampp.svg" height=23 align=center>
-  &nbsp;
-  <img src="assets/node.svg" height=35 align=center>
-  &nbsp;
-  <img src="assets/jquery-2.svg" height=20 align=center>
-  &nbsp;
-  <img src="assets/bootstrap.svg" height=28 align=center>
-  &nbsp;
-  <img src="assets/tailwind.svg" height=14 align=center>
-  &nbsp;
-  <img src="assets/redux.svg" height=25 align=center>
-  &nbsp;
-  <img src="assets/ngrx.svg" height=28 align=center>
-  &nbsp;
-  <img src="assets/rxjs.png" height=25 align=center>
-  &nbsp;
-  <img src="assets/dotnet.svg" height=35 align=center>
-  &nbsp;
-  <img src="assets/swagger.svg" height=35 align=center>
-  &nbsp;
-  <img src="assets/openapi.png" height=35 align=center>
-</div>
-<hr>
-<br>
+> <div>
+>  <img src="assets/git.svg" height=23 align=center>
+>  &nbsp;
+>  <img src="assets/Linux.svg" height=30 align=center>
+>  &nbsp;
+>  <img src="assets/xampp.svg" height=23 align=center>
+>  &nbsp;
+>  <img src="assets/node.svg" height=35 align=center>
+>  &nbsp;
+>  <img src="assets/jquery-2.svg" height=20 align=center>
+>  &nbsp;
+>  <img src="assets/bootstrap.svg" height=28 align=center>
+>  &nbsp;
+>  <img src="assets/tailwind.svg" height=14 align=center>
+>  &nbsp;
+>  <img src="assets/redux.svg" height=25 align=center>
+>  &nbsp;
+>  <img src="assets/ngrx.svg" height=28 align=center>
+>  &nbsp;
+>  <img src="assets/rxjs.png" height=25 align=center>
+>  &nbsp;
+>  <img src="assets/dotnet.svg" height=35 align=center>
+>  &nbsp;
+>  <img src="assets/swagger.svg" height=35 align=center>
+>  &nbsp;
+>  <img src="assets/openapi.png" height=35 align=center>
+> </div>
 
 > $\color{#1DF0FA}\large{\textsf{Databases and data modelling}}$
 <br>
