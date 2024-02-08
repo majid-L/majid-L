@@ -1,8 +1,7 @@
-## Welcome to my page! 👋
-I'm a software engineer with a broad tech stack that covers many areas within full stack web development.
+I'm a software engineer and web developer with a wealth of practical experience in a **diverse tech stack**, covering many areas within full stack web development.
 
 ### Languages
-<div align=center>
+<div>
   <img src="assets/js2.svg" height=35>
   &nbsp;
   <img src="assets/ts.svg" height=35>
@@ -18,14 +17,13 @@ I'm a software engineer with a broad tech stack that covers many areas within fu
   <img src="assets/css.svg" height=35>
   &nbsp;
   <img src="assets/sass.svg" height=35>
-  &nbsp;
   <img src="assets/yaml.svg" height=35>
 </div>
 
 <br>
 
 ### Application frameworks
-<div align=center>
+<div>
   <img src="assets/react.svg" height=35 align=center>
   &nbsp;
   <img src="assets/angular-icon.svg" height=35 align=center>
@@ -46,7 +44,7 @@ I'm a software engineer with a broad tech stack that covers many areas within fu
 <br>
 
 ### Technologies and libraries
-<div align=center>
+<div>
   <img src="assets/git.svg" height=23 align=center>
   &nbsp;
   <img src="assets/Linux.svg" height=30 align=center>
@@ -73,7 +71,7 @@ I'm a software engineer with a broad tech stack that covers many areas within fu
 <br>
 
 ### Data modelling & SQL
-<div align=center>
+<div>
   <img src="assets/psql.svg" height=35 align=center>
   &nbsp;
   <img src="assets/mysql.svg" height=35 align=center>
@@ -90,18 +88,18 @@ I'm a software engineer with a broad tech stack that covers many areas within fu
 <br>
 
 ### Testing frameworks
-<div align=center>
+<div>
   <img src="assets/jest.svg" height=35 align=center>
-  &nbsp;
+  &nbsp;&nbsp;
   <img src="assets/mocha.svg" height=35 align=center>
-  &nbsp;
-  <img src="assets/chai.svg" height=45 align=center>
-  &nbsp;
-  <img src="assets/cy.svg" height=35 align=center>
-  &nbsp;
-  <img src="assets/phpunit.svg" height=25 align=center>
-  &nbsp;
-  <img src="assets/nunit.png" height=35 align=center>
+  &nbsp;&nbsp;
+  <img src="assets/chai.svg" height=35 align=center>
+  &nbsp;&nbsp;
+  <img src="assets/cy.svg" height=30 align=center>
+  &nbsp;&nbsp;
+  <img src="assets/phpunit.svg" height=35 align=center>
+  &nbsp;&nbsp;
+  <img src="assets/nunit.png" height=30 align=center>
 </div>
 
 <!--
