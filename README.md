@@ -1,4 +1,4 @@
-I'm a software engineer and web developer with a wealth of practical experience in a **diverse tech stack**, covering many areas within full stack web development.
+I'm a software engineer and web developer with a wealth of practical experience in a $\color{#ED2EFA}{\textsf{diverse tech stack}}$, covering many areas within full stack web development.
 
 
 > $\color{#A14AFE}\large{\textsf{Languages}}$
