@@ -1,8 +1,7 @@
 I'm a software engineer and web developer with a wealth of practical experience in a **diverse tech stack**, covering many areas within full stack web development.
 
-$\color{#1DF0FA}\large{\textsf{Languages}}$
 
-<br>
+> $\color{#1DF0FA}\large{\textsf{Languages}}$
 <div>
   <img src="assets/js2.svg" height=35>
   &nbsp;
@@ -21,10 +20,11 @@ $\color{#1DF0FA}\large{\textsf{Languages}}$
   <img src="assets/sass.svg" height=35>
   <img src="assets/yaml.svg" height=35>
 </div>
-
+<hr>
 <br>
 
-$\color{#1DF0FA}\large{\textsf{Application frameworks}}$
+
+> $\color{#1DF0FA}\large{\textsf{Application frameworks}}$
 <br>
 <div>
   <img src="assets/react.svg" height=35 align=center>
@@ -43,10 +43,10 @@ $\color{#1DF0FA}\large{\textsf{Application frameworks}}$
   &nbsp;
   <img src="assets/dotnet.svg" height=35 align=center>
 </div>
-
+<hr>
 <br>
 
-$\color{#1DF0FA}\large{\textsf{Technologies and libraries}}$
+> $\color{#1DF0FA}\large{\textsf{Technologies and libraries}}$
 <br>
 <div>
   <img src="assets/git.svg" height=23 align=center>
@@ -75,10 +75,10 @@ $\color{#1DF0FA}\large{\textsf{Technologies and libraries}}$
   &nbsp;
   <img src="assets/openapi.png" height=35 align=center>
 </div>
-
+<hr>
 <br>
 
-$\color{#1DF0FA}\large{\textsf{Databases and data modelling}}$
+> $\color{#1DF0FA}\large{\textsf{Databases and data modelling}}$
 <br>
 <div>
   <img src="assets/psql.svg" height=35 align=center>
@@ -93,10 +93,10 @@ $\color{#1DF0FA}\large{\textsf{Databases and data modelling}}$
   &nbsp;
   <img src="assets/prisma.svg" height=35 align=center>
 </div>
-
+<hr>
 <br>
 
-$\color{#1DF0FA}\large{\textsf{Testing frameworks}}$
+> $\color{#1DF0FA}\large{\textsf{Testing frameworks}}$
 <br>
 <div>
   <img src="assets/jest.svg" height=35 align=center>
