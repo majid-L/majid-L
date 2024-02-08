@@ -1,8 +1,27 @@
-### Hi there 👋
+## Welcome to my page! 👋
 I'm a software engineer with a broad tech stack that covers many areas within full stack web development.
 
-<div style="display: flex; justify-content: center;">
-  <img src=>
+### Languages
+<div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 15px; background: #3A3A3A; border-radius: 15px; margin: 20px 0; padding: 10px;">
+  <img src="assets/js.svg" height=35>
+  <img src="assets/ts.svg" height=35>
+  <img src="assets/php.svg" height=45>
+  <img src="assets/py.svg" height=35>
+  <img src="assets/c--4.svg" height=35>
+  <img src="assets/html.svg" height=35>
+  <img src="assets/css.svg" height=35>
+  <img src="assets/sass.svg" height=35>
+  <img src="assets/yaml.svg" height=35>
+</div>
+
+### Data modelling & SQL
+<div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 15px; background: #3A3A3A; border-radius: 15px; margin: 20px 0; padding: 10px;">
+  <img src="assets/psql.svg" height=35>
+  <img src="assets/mysql.svg" height=35>
+  <img src="assets/mssql.svg" height=45>
+  <img src="assets/sqlite.svg" height=35>
+  <img src="assets/mongodb.svg" height=25>
+  <img src="assets/prisma.svg" height=35>
 </div>
 
 <!--
