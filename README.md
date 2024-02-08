@@ -1,4 +1,9 @@
 ### Hi there 👋
+I'm a software engineer with a broad tech stack that covers many areas within full stack web development.
+
+<div style="display: flex; justify-content: center;">
+  <img src=>
+</div>
 
 <!--
 **majid-L/majid-L** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
