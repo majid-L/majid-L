@@ -66,6 +66,10 @@ I'm a software engineer and web developer with a wealth of practical experience 
   <img src="assets/rxjs.png" height=25 align=center>
   &nbsp;
   <img src="assets/dotnet.svg" height=35 align=center>
+  &nbsp;
+  <img src="assets/swagger.svg" height=35 align=center>
+  &nbsp;
+  <img src="assets/openapi.png" height=35 align=center>
 </div>
 
 <br>
