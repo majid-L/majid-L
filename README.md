@@ -71,52 +71,35 @@ I'm a software engineer and web developer with a wealth of practical experience 
 >  &nbsp;
 >  <img src="assets/openapi.png" height=35 align=center>
 > </div>
+<br>
 
 > $\color{#1DF0FA}\large{\textsf{Databases and data modelling}}$
-<br>
-<div>
-  <img src="assets/psql.svg" height=35 align=center>
-  &nbsp;
-  <img src="assets/mysql.svg" height=35 align=center>
-  &nbsp;
-  <img src="assets/mssql.svg" height=45 align=center>
-  &nbsp;
-  <img src="assets/sqlite.svg" height=35 align=center>
-  &nbsp;
-  <img src="assets/mongodb.svg" height=25 align=center>
-  &nbsp;
-  <img src="assets/prisma.svg" height=35 align=center>
-</div>
-<hr>
+><div>
+>  <img src="assets/psql.svg" height=35 align=center>
+>  &nbsp;
+>  <img src="assets/mysql.svg" height=35 align=center>
+>  &nbsp;
+>  <img src="assets/mssql.svg" height=45 align=center>
+>  &nbsp;
+>  <img src="assets/sqlite.svg" height=35 align=center>
+>  &nbsp;
+>  <img src="assets/mongodb.svg" height=25 align=center>
+>  &nbsp;
+>  <img src="assets/prisma.svg" height=35 align=center>
+></div>
 <br>
 
 > $\color{#1DF0FA}\large{\textsf{Testing frameworks}}$
-<br>
-<div>
-  <img src="assets/jest.svg" height=35 align=center>
-  &nbsp;&nbsp;
-  <img src="assets/mocha.svg" height=35 align=center>
-  &nbsp;&nbsp;
-  <img src="assets/chai.svg" height=35 align=center>
-  &nbsp;&nbsp;
-  <img src="assets/cy.svg" height=30 align=center>
-  &nbsp;&nbsp;
-  <img src="assets/phpunit.svg" height=35 align=center>
-  &nbsp;&nbsp;
-  <img src="assets/nunit.png" height=30 align=center>
-</div>
-
-<!--
-**majid-L/majid-L** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+><div>
+>  <img src="assets/jest.svg" height=35 align=center>
+>  &nbsp;&nbsp;
+>  <img src="assets/mocha.svg" height=35 align=center>
+>  &nbsp;&nbsp;
+>  <img src="assets/chai.svg" height=35 align=center>
+>  &nbsp;&nbsp;
+>  <img src="assets/cy.svg" height=30 align=center>
+>  &nbsp;&nbsp;
+>  <img src="assets/phpunit.svg" height=35 align=center>
+>  &nbsp;&nbsp;
+>  <img src="assets/nunit.png" height=30 align=center>
+></div>
