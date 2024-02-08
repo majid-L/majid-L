@@ -33,13 +33,11 @@ I'm a software engineer and web developer with a wealth of practical experience 
 >  &nbsp;&nbsp;
 >  <img src="assets/next.svg" height=15 align=center>
 >  &nbsp;&nbsp;
->  <img src="assets/express.svg" height=20 align=center>
->  &nbsp;&nbsp;
 >  <img src="assets/laravel.svg" height=30 align=center>
 >  &nbsp;
 >  <img src="assets/drf.svg" height=55 align=center>
->  &nbsp;
->  <img src="assets/dotnet.svg" height=35 align=center>
+>  &nbsp;&nbsp;
+>  <img src="assets/express.svg" height=20 align=center>
 ></div>
 <br>
 
