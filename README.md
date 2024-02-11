@@ -1,7 +1,8 @@
 I'm a software engineer and web developer with a wealth of practical experience in a $\color{#ED2EFA}\large{\textsf{diverse tech stack}}$, covering many areas within full stack web development.
 
+<img src="tech.png" width=500>
 
-> $\color{#A14AFE}\large{\textsf{Languages}}$
+<!-- > $\color{#A14AFE}\large{\textsf{Languages}}$
 ><div>
 >  <img src="assets/js2.svg" height=35>
 >  &nbsp;
@@ -100,4 +101,4 @@ I'm a software engineer and web developer with a wealth of practical experience 
 >  <img src="assets/phpunit.svg" height=35 align=center>
 >  &nbsp;&nbsp;
 >  <img src="assets/nunit.png" height=30 align=center>
-></div>
+></div> -->
